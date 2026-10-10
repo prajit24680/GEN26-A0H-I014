@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I014
 ### Team Details
-#### **Team Name** <<Data ALchemists>> <br/>
+#### **Team Name** Data Alchemists <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
