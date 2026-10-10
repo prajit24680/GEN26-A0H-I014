@@ -6,8 +6,8 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |   Prajit Anand     |        CB.PS.I5.MAT26011                |  M               |   Math and Computing       |  
+|    Member 2     |   Mohit Vaswani                      |      CB.PS.I5.MAT26010                   |               M  |      Math and Computing                            |  
+|    Member 3     |   Tanishq Borah                      |    CB.PS.I5.MAT26019                     |         M        |     Math and Computing                             |  
+|    Member 4     |   Sriram S                      |     CB.PS.I5.MAT26017                    |       M          |       Math and Computing                           |   
 
