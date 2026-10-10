@@ -1,0 +1,1006 @@
+﻿source_pdf,pdf_page,text
+1-s2.0-S095965260100018X-main.pdf,1,"Journal of Cleaner Production 10 (2002) 13–24
+www.cleanerproduction.net
+Analysis of electricity and water end-uses in university campuses:
+case-study of the University of Bordeaux in the framework of the
+Ecocampus European Collaboration☆
+Jean-Franc¸ois Bonnet *, Christophe Devel, Patrick Faucher, Jacques Roturier
+Ecocampus Group, University of Bordeaux 1, 351 cours de la Liberation, 33405 Talence Cedex, France
+Received 1 January 2001; accepted 9 April 2001
+Abstract
+In large university campuses, electricity and water uses are similar to those of medium-sized cities, as demonstrated by the
+Ecocampus European Collaboration. The diversity of activities and energy end-uses can be considered as signiﬁcant as in a city
+where residential, commercial and industrial uses are present. The main goal of the paper is to deﬁne and implement a tool allowing
+to address the diversity of activities and end-uses when analysing energy demand and environmental impact on a campus. Electricity
+and water uses on the campus of University of Bordeaux were studied, with support of both the French Electricity Utility and the
+Regional Water Utility Commission. The method which is presented relies on the evaluation of ﬂoor surface area-based ratios for
+each activity, and requires the assessment of reference values to be used on the campus. As implemented, the method shows the
+relative share of major uses and allows to estimate water conservation potential at the campus scale. For both electricity and water,
+a special attention is paid to R&D uses, with that sector being the most signiﬁcant in terms of consumption and annual growth. 
+2001 Elsevier Science Ltd. All rights reserved.
+Keywords: University campus; Water use; Electricity use; Analysis of demand by activity; Ratio-based analysis
+1. Introduction
+Environmental management is a growing concern for
+many tertiary institutions, whether considered at the
+campus scale (e.g. [1,2]), at the national scale (e.g. [3]),
+or at an interregional scale (e.g. [4]), among many other
+initiatives.
+Among
+the
+internationally
+increasing
+research efforts about sustainable development issues at
+universities, many different options can be considered,
+most generally including at least the improvement of
+physical operations management or the greening of cur-
+ricula [5]. The present paper is widely modiﬁed from a
+lecture given at EMSU Conference in June 1999 [5].
+☆ Ecocampus is a trademark of the University of Bordeaux 1.
+* Corresponding author. Tel.: +33 557 96 29 37; fax: +33 557 96
+29 40.
+E-mail
+addresses:
+jf.bonnet@ecocampus.u-bordeaux.fr
+(J.-F.
+Bonnet), c.devel@ecocampus.u-bordeaux.fr (C. Devel), p.faucher@
+ecocampus.u-bordeaux.fr
+(P.
+Faucher);
+j.roturier@ecocampus.
+u-bordeaux.fr (J. Roturier).
+0959-6526/01/$ - see front matter 2001 Elsevier Science Ltd. All rights reserved.
+PII: S0959-6526(01)00018-X
+1.1. The Ecocampus European Collaboration
+Participants in the Energy–University–Environment
+(EUE) Seminar [University of Bordeaux 1 (France),
+March 1995], recognised that in most of their university
+campuses or research laboratories, the management of
+natural resources, including energy and water use, is usu-
+ally based on a “laissez-faire” policy. Such a situation
+was regarded by them as unwise, unfair and moreover
+unaffordable, for at least two reasons:
+• the ﬁnancial cost of the daily operation of teaching
+and research activities continues to grow, while asso-
+ciated environmental degradations are poorly taken
+into account; and
+• students are not receiving the best training because
+of limited, out-of-date texts, bad examples in campus
+buildings and isolation from others around the world
+who are interested in efﬁcient building design and
+protection of the environment.
+Starting in 1996, the ECOCAMPUS collaboration, partly
+"
+1-s2.0-S095965260100018X-main.pdf,2,"14
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+funded by the European Commission under the THER-
+MIE Programme1, had an important goal: to create a
+European network of university campuses and research
+laboratories whose managers, academic staff and scien-
+tists, are deeply concerned by the in-house issues of sus-
+tainable development. Over the past 2 years, the analysis
+of data concerning electricity demand, heating energy
+and water consumption has been carried out. Members
+of the ECOCAMPUS collaboration were obviously com-
+mitted to implementing a feasibility study in at least one
+university of their own country. The collaboration
+involved 14 university campuses in seven countries:
+Denmark; Greece; Finland; France; Poland; Portugal;
+and Romania. The main results concerning electricity
+use, heating energy use, water use and waste production,
+are presented in the Ecocampus ﬁnal report [6].
+1.2. Ecocampus European dataset
+Taken as an example from the whole Ecocampus ratio
+dataset, Fig. 1 presents electricity consumption ratios
+based on building ground surface areas for most of the
+institutions or buildings that were studied according to
+the work programme. These ratios show a variability
+range of about 1–10, while water consumption ratios
+range from about 1 to 30 and heating energy ratios range
+from almost 1 to 9 [6]. The origin of these important
+Fig. 1.
+Ecocampus electricity consumption ratios dataset [6,7].
+1 Contract XVII STR 1006-96 FR.
+discrepancies can mostly be found: (i) in the diversity
+of national-speciﬁc situations (quality of buildings, qual-
+ity of distribution networks, national environment policy,
+etc.); (ii) the large probability of the relative share of
+different basic activities (lecturing, housing, R&D, etc.)
+that can be found in the building or institution con-
+cerned; and (iii), for a lesser part, in the variety in size of
+buildings and institutions. Also, the lack of consumption
+metering in university buildings made it difﬁcult to com-
+pare homogeneous situations within the participating
+universities. The present paper, focusing on electricity
+and water demand, shows some of the results of the case-
+study of the University of Bordeaux. For more details
+about environmental management issues on the campus
+of Bordeaux, a comprehensive case-study including
+details of waste production is presented in Ref. [7]. An
+extensive analysis of TPG campus electricity consump-
+tion and load in partnership with the French electric util-
+ity is given in Ref. [8].
+2. General objectives and methodology
+2.1. Objectives
+According to the general objectives of the Ecocampus
+collaboration, the goals of the present work are:
+• deﬁning a methodology for auditing energy and water
+uses at tertiary institutions;
+• implementing and testing the methodology on the
+campus of Bordeaux;
+• gathering reference data to feed the Ecocampus datab-
+ase; and
+• using the results to gain a better knowledge of the
+broad patterns of energy uses on a university campus.
+Getting reference data is often troublesome due to (i)
+lack of metered data; and (ii) the heterogeneity of activi-
+ties that are present in an institution’s building or group
+of buildings. The main goals of this paper are to discuss
+the possibility of getting valuable data on an activity
+basis (lecturing, housing, R&D, etc.), thus being able to
+compare the energy efﬁciency of different sites bearing
+in mind the respective activity share.
+2.2. Methodology
+The main features of the Ecocampus methodology can
+be summarised as follows: (i) obtain commitment of the
+top management; (ii) rely on “internal skills”, which are
+widely available on university campuses, to deﬁne,
+implement and support internal audits; (iii) involve stu-
+dents in performing internal audits in the framework of
+their curricula or research projects; (iv) consider every
+accountable ﬂow on the campus.
+"
+1-s2.0-S095965260100018X-main.pdf,3,"15
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+The methodology implemented, within this broad
+framework, for a demand analysis tool is brieﬂy sum-
+marised in the following steps:
+1. classiﬁcation
+of
+activities
+(administration,
+docu-
+mentation, lecturing, R&D, housing, catering, sports);
+2. a survey concerning all institutions of the campus:
+water and electricity consumption; basic data (global
+and per building ground surface areas, staff, number
+of students, etc.);
+3. evaluation of ratios for each activity: surface area-
+based ratios are of great interest, because data con-
+cerning building surface areas are generally central-
+ised and easy to gather;
+4. utilisation of ratios: ratios can be used for compara-
+tive study of different sites (benchmarking), and also
+for extrapolation and aggregation (aggregated con-
+sumption of a given activity is obtained by combining
+the total ground surface area dedicated to this activity
+with the evaluated ratios); and
+5. utilisation of ratios for conservation potential esti-
+mation.
+3. Analysis of water and electricity use at the
+Talence–Pessac–Gradignan (TPG) campus
+3.1. The TPG university campus
+Almost all higher education activities of the Bordeaux
+region are located about 6 km south downtown, in Bor-
+deaux suburbs on the territories of three municipal auth-
+orities: Talence; Pessac and Gradignan. With a total area
+of about 2.5 km2 and a building ﬂoor area of 500 000
+m2, the whole campus is one of the broadest ones in
+France (Fig. 2). Each year about 50 000 students are
+Fig. 2.
+Flows of energy and matter at the TPG campus.
+enrolled in one of the higher education organisations
+available on the site, offering nearly all disciplinary
+ﬁelds with the exception of medicine. Moreover, many
+services are also available such as student restaurants
+and residences, a water supply facility, post ofﬁce, cul-
+ture and sports rooms, etc. As far as electricity consump-
+tion and water demand are concerned, the TPG area is
+equivalent to a town of 10 000 inhabitants or more.
+3.1.1. Water at the TPG campus
+Potable water consumption on the campus is higher
+than 700 000 m3/year, not counting the geothermal water
+used to heat the swimming pool (150 000 m3/year).
+Water consumption, after a strong decrease in the ﬁrst
+half of the 1990, is steady or slowly decreasing. Most
+potable water for the campus is taken from an aquifer
+regarded as overexploited in the Bordeaux area and part
+of this work is supported by the Regional Water Utility
+Agency2 in the framework of the local groundwater con-
+servation programme. This issue is of considerable
+environmental importance, since the aquifer could be
+contaminated by saline water intrusion if its discharge
+to the ocean keeps being reduced. Regional conservation
+goals are set for the whole aquifer to save about 25%
+of present exploitation. About 95% of the campus
+potable water is supplied from several wells operated by
+university campus facilities. As a consequence, the cost
+of water supply at the campus ranges from 0.3 to 1
+EURO/m3, while the average price of municipal water
+in France exceeds 2 EURO/m3. Therefore, water use
+could be found to be higher here than in universities fed
+with municipal water. To our knowledge, water leaking
+should does not signiﬁcantly affect the distribution net-
+works of the campus. As a result of the survey conducted
+2 Contract No. 250 33 1164.
+"
+1-s2.0-S095965260100018X-main.pdf,4,"16
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+in the present work, it appears that watering plants is a
+very minor use of water on the campus. These facts
+allow one to consider that water demand is driven by
+activities, and that the small leakage level and watering
+uses should not cause many errors in the data analysis.
+3.1.2. Electricity at the TPG campus
+In 1998 the overall power subscription was about 9.5
+MW with the cumulated maximum power load reaching
+10.3 MW; the annual electricity consumption was 25
+GWh resulting in a bill of 12.7 million Francs (tax not
+included) or about 2.2 million Euros. For reasons yet to
+be fully investigated, electricity demand growth is high
+(+8% in 1998). Electricity is supplied by EDF, the
+French Electricity Utility, to >50 delivery points on the
+campus. A combined heat and power (CHP) self-pro-
+duction 1 MWe power plant was opened in the autumn
+of 1999, illustrating a trend of some French universities,
+partly induced by the deregulation of the electricity mar-
+ket. Decreasing cost of electricity has been a general
+trend for several years, as well as the mean increase of
+electrical energy consumption on the campus. Such
+increase can be partly explained by construction of new
+buildings, but also by growing equipment rates, not for-
+getting
+the
+often
+increasing
+unit
+consumption
+of
+appliances. Although individual electric heaters are
+present in a large number of ofﬁces on the campus, elec-
+trical energy is almost never the main heating energy
+source. Therefore, it is assumed that, like the water data,
+the electric consumption data can be mostly explained
+by activities.
+3.1.3. Availability and quality of data
+With about 50 electricity main meters and 60 water
+main meters, supplemented by about 50 water submet-
+ers, a large amount of consumption data is available. One
+of the main difﬁculties is ensuring that the linkage
+between the consumption data and stafﬁng or building
+data is correct, so that any ratios are reliable. On the TPG
+campus, which houses more than a dozen independent
+institutions and particularly >30 areas of separate man-
+agement — not counting at least 40 research laboratories
+with a high level of autonomy — gathering such data
+cannot be done without a comprehensive survey.
+3.1.4. Implementation of the method at the TPG
+campus
+For the purpose of testing the method, the implemen-
+tation was done in two steps:
+Step 1: test the hypothesis of activity-driven con-
+sumption and check the validity of the classiﬁcation.
+Step 2: test the validity of ratios as reference data
+for benchmarking and for extrapolation of uses where
+consumption is not metered.
+In the ﬁrst step, the most reliable data were used to
+evaluate ratios for each single-activity building or insti-
+tution, thus allowing one to calculate and discuss a mean
+ratio per activity. Despite the large size of the TPG cam-
+pus, the number of samples in each activity was often
+too small to conduct a comprehensive statistical analysis
+of data. In the second step, the handling of ratios for
+aggregation was tested, ﬁrst on three “mini-campus”
+sites and then on the whole TPG campus. The appropri-
+ateness of the mean ratios from step 1 for this purpose
+was discussed. An evaluation of the water conservation
+potential, based on ratios per end-uses, was then conduc-
+ted.
+3.2. Evaluation of ratios for different “single-activity”
+buildings or institutions
+The sites (buildings or institutions) for which reliable
+ratios could be found were classiﬁed by activity and
+compared, as shown in Figs. 3 and 4. Some of the sites
+could not be considered as “single-activity”, for instance
+educational institutions having also catering or housing
+facilities. Therefore, the classiﬁcation is more detailed
+when necessary. The relevance of each type of ratio was
+tested, when signiﬁcant, with a least-square regression
+line (consumption versus surface area, staff, etc.) and
+a coefﬁcient of determination. When it was possible, a
+comparison was made between ratios based on the sur-
+face area and ratios based on occupancy: however, one
+must remember that, for a given type of activity, surface
+area and occupancy are generally linked. Due to the dif-
+ferent distribution of meters between water and elec-
+tricity, fewer data were available for electricity con-
+sumption and some of the ratios could not be evaluated.
+These differences made a cross-analysis of water and
+electricity consumption difﬁcult, so that, in many cases,
+water and electricity ratios had to be treated separately.
+3.2.1. Libraries
+Three libraries in two large distinct buildings, and a
+smaller documentation centre, are present on the cam-
+pus, the overall building ground area being about 15 950
+m2. With a water consumption of 2790 m3 the mean ratio
+value is one of the smallest of the campus (0.17
+m3/year/m2), and the surface area-based ratios appear
+very homogeneous. Electricity consumption ratios show
+a greater variability, but still remain among the lowest of
+the campus with a mean ratio of about 25 kWh/year/m2.
+3.2.2. Administration
+Only one building, among those dedicated to adminis-
+tration, has water and electricity meters. The ratios for
+this building might provide data, for all the adminis-
+tration buildings on the campus, with the orders of mag-
+nitude of water consumption (0.19 m3/year/m2 and about
+5.3 m3/year per staff member), and electricity consump-
+tion (45 kWh/year/m2 and 1200 kWh/year per person).
+"
+1-s2.0-S095965260100018X-main.pdf,5,"17
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+Fig. 3.
+Water consumption ratios for different “single-activity” (or dominant activity) buildings or institutions. (a) Libraries; (b) Student housing;
+(c) Lecture halls; (d) Educational institutions; (e) Research without R&D water use; (f) Experimental research (R&D); (g) Student restaurants; (h)
+Student cafeterias.
+3.2.3. Lecturing
+3.2.3.1. Water consumption
+Two subclasses are con-
+sidered to discuss the relevance of ratios: single build-
+ings [Fig. 3(c)], and educational institutions [Fig. 3(d)].
+The ratios of single building show a very good level of
+homogeneity (r2=0.98), and their mean value is probably
+suitable for many other lecture halls. When considering
+ratios for institutions as a whole, two points have to be
+stated: (i) a slightly larger dispersion was found in the
+ratios (r2=0.91), probably having two major causes.
+First, structural differences do exist between the sites
+and the number of students per staff member or per unit
+surface may vary strongly. Second, the presence on the
+sites that were investigated of other activities in variable
+proportions (cafeterias, administration, etc.) may alter
+the quality of ratios. As a consequence, the use of a mean
+ratio should be done with care. (ii) Water consumption
+of lecture buildings should be directly related to occu-
+pancy, that is, to the number of students and staff, rather
+than to surface area. However, ratios based on staff or
+student number appear less consistent than surface area-
+based ratios. Reference values could be taken as 0.2
+m3/year/m2 for buildings or institutions having a low
+occupancy density and 0.3 m3/year/m2 for sites with a
+higher population density (for instance, <5 m2 per
+student).
+3.2.3.2. Electricity consumption
+Due to the lack of
+metered data, only educational institutions could be stud-
+ied [Fig. 4(a)]. The ratios for educational institutions
+show a variability range close to those of the water
+"
+1-s2.0-S095965260100018X-main.pdf,6,"18
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+Fig. 4.
+Electricity consumption ratios for different ‘single-activity’
+(or dominant activity) buildings or institutions. Values in italics are
+estimations. (a) Educational institutions; (b) Student residences; (c)
+Experimental research (R&D).
+ratios. However, no direct correlation is found between
+water and electricity ratios. Ratios based on occupancy
+were found to be less signiﬁcant. A possible explanation
+is that, unlike water in this kind of buildings, electricity
+consumption is better related to surface than to occu-
+pancy. The mean ratio is about 41 kWh/year/m2
+(r2=0.93).
+3.2.4. Student housing
+Ratios for housing were expected to be quite similar
+on the campus where buildings and occupancy are com-
+parable. This could be observed for electricity consump-
+tion ratios [Fig. 4(b)], denoting a reliable mean ratio of
+39 kWh/year/m2 (r2=0.96), but not for water consump-
+tion ratios [Fig. 3(b)]. For most sites, water consumption
+per room appears also to be large, since it might be equi-
+valent to 30–60% of the mean household annual con-
+sumption in the region. According to data available for
+site 6, hot tap water consumption might be as high as
+47% of global consumption. The values and dispersion
+of ratios found on the campus seemed to indicate some
+potential for water conservation, which was conﬁrmed
+by a visit of the buildings concerned. As a consequence,
+the mean value is probably relatively high if it is to be
+used as a reference.
+3.2.5. Catering
+When considering ratios for catering, two categories
+have a different reference data. (i) Restaurants, where
+cooking is important, occupy an overall building ground
+surface area >10 000 m2. (ii) Cafeterias, where often
+less cooking occurs, require a smaller building surface
+area, and show high surface-based ratios. For both categ-
+ories, ratios per meal, although being more difﬁcult to
+obtain than per surface area ones, are much more
+reliable indicators.
+3.2.6. Research
+Research buildings or laboratories can be separated
+into two main categories. (i) Buildings or laboratories
+having no speciﬁc R&D equipment (geography, humani-
+ties, etc.): these units only use sanitary water and ordi-
+nary “commercial” building electrical energy, and the
+ratios here should be close to lecturing or administration
+ones. (ii) Buildings or laboratories having speciﬁc R&
+D uses: most often situated in science and technology
+experimental research buildings, these units showing
+generally high consumption and great discrepancies need
+to be considered. Water and electricity are treated separ-
+ately here, because classiﬁcations do not necessarily
+match: generally R&D labs often require both electricity
+and water speciﬁc consumption, but some, depending on
+the research ﬁeld, use just electricity (e.g. computer
+science) or water (e.g. marine biology) for the R&D pur-
+poses.
+3.2.6.1. Water
+1. For the ﬁrst category, buildings or laboratories only
+have sanitary uses of water — mostly for lavatories.
+Water consumption ratios per surface area are among
+the lowest on the campus [Fig. 3(e)], however, there
+is some variability mostly due to the heterogeneity of
+a few data sets. The mean surface area-based ratio
+does seem to provide a satisfactory reference value
+(0.2 m3/year/m2).
+2. In the case of the second category, the large disper-
+sion of data is explained by the diversity of R&D uses
+and heterogeneity of the equipment. All ratios [Fig.
+3(f)], often ranging from 10 to 20 times the adminis-
+tration or lecturing ratios, far exceed 0.2 m3/year/m2,
+revealing the existence of speciﬁc R&D consumption.
+The mean ratio of 3.8 m3/year/m2 is not statistically
+signiﬁcant; however, being evaluated after >90% of
+the surface area and consumption of R&D labora-
+tories, it provides an adequate value for the whole
+TPG campus.
+"
+1-s2.0-S095965260100018X-main.pdf,7,"19
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+3.2.6.2. Electricity
+1. Not enough data could be obtained for research build-
+ings without scientiﬁc equipment but ratios for the
+known samples seem to indicate that the pattern of
+consumption is quite similar to the libraries, adminis-
+tration or commercial buildings.
+2. Electricity consumption ratios for R&D labs are about
+three to ﬁve times higher than for other buildings. A
+10 times higher consumption (site 4) can be attributed
+to an exceptional density of equipment. Due to the
+lack of sub-metering, some results of the measure-
+ment campaigns were included in the dataset. The
+mean ratio (117 kWh/year/m2) has not been found
+statistically signiﬁcant and care should be taken for
+extrapolations after this value.
+3.2.7. Sports
+Due to the lack of accurate data, sports activity is not
+detailed here. In particular, watering of sports grounds
+may not be well known. Metered water consumption,
+concerning an area of 12 700 m2 for buildings or covered
+grounds, is about 16 800 m3/year, denoting a ratio of 1.3
+m3/year/m2. More reliable values could be found in bet-
+ter accounting of watering use, possibly related to ﬁelds
+surfaces, this being out of the scope of the paper. Appar-
+ent electricity use per unit of ﬂoor surface area (37
+kWh/year/m2), yet to be validated, is close to that of
+lecturing buildings.
+3.3. Global pattern of electricity and water uses
+The main goal of the aggregation is to obtain a broad
+pattern of water and electricity uses on the campus,
+rather than a highly accurate evaluation, in order to dis-
+cuss the weight of different activities or uses in the
+environmental impact of a campus.
+Table 1
+Reconstruction of water consumption for three “mini-campuses”, using (a) mean TPG campus ratios and (b) adjusted ratios. The inaccuracy for
+campus 1 (a) was caused by overestimation of research uses and by lack of up-to-date surfaces for housing
+Campus 1
+Campus 2
+Campus 3
+Total
+Actual water annual consumption 15 327
+10 760
+17 429
+43 516
+(m3/year)
+(a) Reconstructed from mean
+45 664
+12 468
+19 218
+77 350
+TPG campus ratios
+Reconstructed/actual
+2.98
+1.16
+1.10
+1.78
+(b) Reconstructed from adjusted
+16 485
+10 866
+17 027
+44 378
+ratiosa
+Reconstructed/actual
+1.08
+1.01
+0.98
+1.02
+aAdjusted ratios (m3/year/m2)
+Research 0.15
+Housing 2.0
+Housing 2.0
+Housing 1.5
+3.3.1. Aggregation by basic activities
+For almost every building on the campus, the share
+of surface area dedicated to a particular activity has been
+identiﬁed during the survey. Suitable ratios are combined
+with the aggregated surface area of each activity to
+evaluate
+the
+global
+consumption
+of
+each
+activity
+(aggregation of consumption by activities). Aggregation
+was tested, ﬁrst on three “mini-campuses” and then on
+the global campus scale, using either the mean ratios
+evaluated in the previous section, or adjusted values
+when the mean ratios were not signiﬁcant.
+3.3.1.1. Test of aggregation for the three mini-campuses
+This test was done for water ratios and concerned
+three distinct “mini-campuses”, each having their own
+management,
+about 10 000–30 000 m2
+of building
+ground surface area and at least three different activities
+(lecturing, housing, administration, catering or research).
+The reconstructed total consumption for each site is
+given in Table 1. The use of “rough” mean TPG campus
+ratios may lead to adequate results but important errors
+are possible [cf campus 1 (a)]. The adjustment of the
+ratios, after a qualitative study, allows one to take into
+account the speciﬁc aspects of each site and highly
+improve the quality of the reconstruction. Also, the
+aggregation is better for the three sites together, since
+positive or negative errors should partly compensate
+each other.
+3.3.1.2. Aggregation for the TPG campus
+When con-
+sidering the ﬂoor surface areas, aggregated by activities,
+lecturing, housing and R&D appear to be the most
+important parts of the campus [Figs. 5 and 6(a)], for
+which consumption data is known for 50–90% of the
+related ﬂoor surface area. The aggregation of water and
+electricity uses requires minor adjustments in the refer-
+ence ratios, either because the mean ratios are statisti-
+cally signiﬁcant,
+or because the surface area (or
+consumption) remaining to be extrapolated is small.
+"
+1-s2.0-S095965260100018X-main.pdf,8,"20
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+Fig. 5.
+Comparison of the global aggregated surfaces, per activity, on the TPG campus with the sum of surfaces for which water and electricity
+consumption are known. Consumption related to the remaining surface area must be extrapolated from the ratios.
+Fig. 6.
+Aggregation per activity of (a) ﬂoor surface, (b) water con-
+sumption and (c) electricity consumption. ‘Non-consuming R&D’ is
+included in ‘Administration and Lecturing’.
+Activities concerned by these adjustments are mostly
+housing and R&D. The aggregated [Fig. 6(b and c)],
+water and electricity consumption by activities shows the
+same dominant share of R&D consumption. The second
+activity in importance is housing, for water, and lectur-
+ing, for electricity. For every activity except R&D and,
+to a lesser part, catering, the electricity ratios appear
+quite similar.
+3.3.2. Aggregation by end-use
+Water consumption, which is related to a limited num-
+ber of end-uses, can be analysed by evaluating the share
+of every end-use. The fact that many buildings have just
+one or two end-uses allows one to estimate ratios for
+selected uses and reconstruct the global consumption.
+Ratios obtained in the previous section are useful to esti-
+mate
+the
+lavatorial
+use
+of
+all
+institutions
+(0.25
+m3/year/m2) and housing and catering sites. The share
+of R&D use (3.6 m3/year/m2) is estimated after the
+deduction of sanitary uses in laboratories, assumed to be
+similar to the sanitary uses of buildings without R&D
+(0.2 m3/year/m2). Watering use is evaluated from sum-
+mer consumption of buildings where this use is known
+to exist. As a whole 93% of the campus’ consumption
+is described (Fig. 7), the remaining part being due to
+Fig.
+7.
+Aggreation
+of
+water
+consumption
+by
+end-use
+(sports
+excluded).
+"
+1-s2.0-S095965260100018X-main.pdf,9,"21
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+unaccounted losses or uses and to a few discrepancies
+in the description of surface areas and the inventory of
+end-uses. Again, it is to be noted that ratios are relevant
+to reconstruct generic end-uses as such but may not
+necessarily be suitable for a direct evaluation of R&D
+uses. Different R&D uses are: (i) cooling of equipment
+such as lasers, X-ray generators, etc.; (ii) water-cooled
+air conditioners; (iii) chemistry uses, with an noticeable
+consumption of water for vacuum production; (iv)
+biology uses: open-circuit aquarium, distillation of
+water, etc. Among these uses, open-circuit cooling of
+scientiﬁc equipment and air conditioning are the domi-
+nant ones, often with a signiﬁcant level of water spillage.
+3.4. Water conservation potential
+Evaluating the share of each end-use on the global
+campus scale allows one to estimate the quantitatively
+major uses, each of them having a different conservation
+potential. Major uses at the campus are R&D and student
+housing, but lavatorial uses, which are related to quanti-
+tatively important building surface areas and occupancy,
+cannot be neglected. An estimation of the conservation
+potential, presented in Table 2, was made under two dif-
+ferent assumptions: (i) a low estimate of potential sav-
+ings, based on most probably feasible savings; and (ii)
+a high estimate, probably requiring a greater commit-
+ment from the institutions. For the low estimate, the
+student housing mean ratio is set at the best value found
+on the campus (1.78 m3/year/m2), and any known coo-
+ling water is assumed to be recycled. For the high esti-
+mate, a 20% improvement in water efﬁciency for lava-
+tories is assumed and R&D consumption is taken to be
+20% of present value since most of the presently
+unidentiﬁed consumption supposedly being used for
+cooling. Potential savings were thus evaluated as about
+210 000 m3/year (low estimate) and 300 000 m3/year
+(high estimate), that is 30–42% of the present actual con-
+sumption. The conservation potential could even be
+higher since almost all R&D consumption is virtually
+avoidable, and also some watering use might be avoided
+Table 2
+Evaluation of conservation potential for different water uses
+Mean ratio
+Evaluated consumption
+Conservation potential (m3/year)
+(m3/year)
+Low estimate
+High estimate
+Drinking
+6000
+0
+0
+Cooking
+1.38
+24 000
+NC
+NC
+Watering
+11 000
+NC
+NC
+Institutions lavatories
+0.25
+86 000
+0
+17 000
+Student housing uses
+2.20
+231 000
+44 000
+44 000
+R&D uses
+3.69
+294 000
+165 000
+236 000
+Total evaluated
+652 000
+209 000
+297 000
+with the help of non-potable water. Actually, the cooling
+of energy-intensive equipment is clearly an avoidable
+use of water: laboratories that were recently built have
+a low water consumption compared to the greater values
+shown here, with chilled water circuits having been
+installed at the time of the building construction.
+Although important, the ﬁnancial aspects of alternative
+solutions are not studied in this paper but should be in
+further developments. Some technical solutions such as
+evaporative cooling towers may adequately cool large
+installations at low electricity or water costs.
+4. Discussion
+4.1. Water and electricity proﬁles
+As shown in Fig. 8, water and electricity mean ratios
+denote again the importance of research uses: R&D is
+the only activity being energy intensive as well as water
+consuming on the TPG campus. When comparing ratios,
+groups of activities appear clearly:
+• low consumption density (administration, lecturing,
+libraries);
+• water consuming activities (housing, sports, catering);
+Fig. 8.
+Water and electricity proﬁle of each activity.
+"
+1-s2.0-S095965260100018X-main.pdf,10,"22
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+• high consumption density (R&D).
+When considering a new, as yet uninvestigated, univer-
+sity site where an audit is to be implemented, knowledge
+of the respective surfaces of these different activities,
+although not necessarily allowing one to precisely evalu-
+ate every use, may provide the orders of magnitude and
+location of most of the electricity and water consump-
+tion.
+4.2. Conservation issues
+As long as energy and water conservation are regarded
+from a global point of view, most issues present many
+similarities. Regarding global environmental issues at
+university campuses, any important conservation poten-
+tial related to R&D speciﬁc end-uses needs to be pointed
+out. In order to achieve conservation potential, several
+different options have been identiﬁed:
+1. improved appliances (e.g. better regulation of the ﬂow
+of cooling water, improvement of the standby mode
+of appliances, etc.);
+2. important modiﬁcation of installations (e.g. switching
+to a chilled water circuit, implement remote control
+on equipment, etc.); and
+3. replacement of a water or electricity greedy appliance
+by a more energy-efﬁcient one [9], which has been
+shown to be economically feasible for part of the
+existing LASER equipment in the University of Bor-
+deaux 1.
+A comprehensive assessment of the environmental and
+ﬁnancial costs and beneﬁts of one of these options is an
+issue that seems to require further development, taking
+into account every relevant scale of analysis (laboratory,
+university, society, market). However, two speciﬁc water
+conservation aspects need to be mentioned. First, some
+technical aspects of water distribution are sometimes
+important and must not be neglected when focusing on
+water demand: for instance, quality of networks and
+leakage avoidance might be, in campuses other than
+TPG, to be considered a priority. Second, at TPG cam-
+pus as well as at other campuses, water is not necessary
+in itself an important part of the use, that is, in most
+R&D end-uses: thermal dissipation is just needed. Since
+cooling production may require intensive electricity con-
+sumption, an important issue lies in the comparative
+evaluation of energy and environmental costs (i.e. a life-
+cycle analysis, LCA) of different solutions for cooling:
+non-recycled water; recycled water; chilled water; and
+industrial water. This issue, obviously dependant on the
+regional and global environmental impact of each
+resource, would require a broader study of the links in
+water and energy uses.
+At the TPG campus, the low cost of water is possibly a
+barrier to the achievement of conservation potential. On
+a regional scale the shifting to new water resources is
+expected to improve the hydrologic budget of the over-
+exploited aquifer. Meanwhile, the setting up of a
+regional ecotax on overexploited aquifer withdrawals,
+which is likely to happen, might be a solution inducing
+considerable reduction in the environmental impact of
+the activities at the campus.
+4.3. Discussion of the method and results
+4.3.1. Appropriateness of the classiﬁcation and ratios
+The classiﬁcation of activities appears to provide an
+adequate description of the campus that was studied. On
+campuses which would prove to be quite different from
+TPG, some speciﬁc aspects might, however, require an
+adaptation of the classiﬁcation. Anyway, most often
+ratios were found to be relevant within a given class of
+buildings,
+especially
+when
+“generic”
+activities
+(education, housing, catering, libraries) were considered
+with the most appropriate basis (ﬂoor surface, number
+of rooms, number of meals served per year, etc.). Cases
+for which an adequate correlation could not be found
+should require more data to conclude about the statistical
+relevance of ratios. Most generally, electricity consump-
+tion ratios appear to be more homogeneous than water
+consumption ratios, because minimal electric consump-
+tion is required, whatever the building function is, by
+very common end-uses such as: security lights; lighting;
+and HVAC. For instance, ratios for housing and lectur-
+ing were found to be rather similar. Higher ratios are
+again found in R&D buildings where: (i) important
+scientiﬁc equipment use; and (ii) speciﬁc building con-
+sumption (e.g., air conditioning for experimentation
+halls, air extraction and fume hoods for chemical labs,
+etc.) are added to a conventional building consumption.
+The situation of research is somewhat speciﬁc, and
+requires that: (i) non-R&D consuming research; and (ii)
+R&D consuming research should be considered separ-
+ately. Ratios, as evaluated in this paper, should be suit-
+able for the ﬁrst category but when considering R&D
+consuming research, no proper correlation could be
+found and therefore a few implications must be con-
+sidered: (i) on a given campus R&D buildings should be
+examined one by one; (ii) the classiﬁcation could be
+further reﬁned, as to take into account subclasses such
+as chemistry, experimental physics, etc., and tested on
+broader samples.
+4.3.2. Generalisations
+Ratio-based analysis is very commonly used when
+energy
+or
+environmental
+parameters
+are
+studied.
+Implementing such analysis requires both to gather and
+process data and the reference values needed for
+interpretation. From the results of the present work, it
+must be underlined that:
+"
+1-s2.0-S095965260100018X-main.pdf,11,"23
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+1. Local reference values given here may not be con-
+sidered, in a strict sense, as suitable to other situ-
+ations, different from the campus studied (other coun-
+tries, other campuses). However the method itself
+appears valid, and it is also likely that some values
+of ratios could be quite similar on other campuses, as
+far as most generic activities are concerned.
+2. As shown before, the extrapolation of consumption
+on a “mini-campus” using mean ratios may require a
+special care and most often a qualitative analysis. Still
+it may, provided a minimal interpretation is carried
+out, produce very useful indications of the environ-
+mental performance of a site, as one of the ﬁrst steps
+of an audit.
+3. The ratio-based method can be considered as a start-
+of-analysis method: the analysis of ratios gives basic
+information on the environmental performance of a
+site, moreover it raises many questions and generally
+leads to further study of particular problems.
+4. Generalisations of the method include an adaptation
+for the purpose of auditing industrial sites and large
+commercial zones with different activities.
+4.3.3. Directions for further study
+Further development of the tool can be seen to be
+going in two directions: (i) on a larger scale, the method
+should be implemented on a representative sample of
+campuses, in order to assess reference values at the
+national or European scale. (ii) At the scale of the build-
+ing or appliance, end-uses and actual demand should be
+investigated in order to assess best values rather than
+mean values to be referred at when examining ratios.
+Such work has been ongoing at University of Bordeaux
+for several years, focusing on the characterisation of
+equipment actual demand. It aims to increase the knowl-
+edge and to help deﬁne improvement strategies (labelling
+of appliances, subsidisation programmes).
+5. Conclusion
+As a part of the extensive case-study of the university
+campus of Bordeaux, conducted in the framework of the
+Ecocampus European collaboration, a tool for assessing
+some indicators of environmental performance has been
+implemented and successfully tested on the TPG cam-
+pus. Although the method could be further tested and
+improved, on a larger scale, the guideline shown in the
+present paper may be useful for managers or researchers
+who regard best management of the physical and
+environmental parameters as one of the necessary
+elements of an outstanding environmental policy at their
+university. Especially, a larger number of physical ﬂows
+should be taken into account: for instance, the ﬂow of
+waste, not forgetting chemical waste and wastewater,
+which have also been studied at the University of Bor-
+deaux. Nevertheless the method that has been presented
+in this paper is just a tool, and it should be understood
+as a simple element of a comprehensive environmental
+management system. But the authors do believe that
+environmental
+management
+at
+universities
+must
+include — yet should not be restricted to — a compre-
+hensive and powerful analysis of every accountable ﬂow
+on a campus, which should:
+1. be based on physical units, however also allowing
+economical matters to be considered;
+2. include the assessment of consistent indicators;
+3. involve the detailed study of these indicators in order
+to understand and estimate the actual potential of
+improvement of the system; and
+4. suit a continuous improvement of the environmental
+parameters of the system, according to the exemplary
+environmental friendliness that tertiary institutions
+have to demonstrate.
+As a conclusion, an affordable sustainable development
+policy for universities might involve at least the
+measurement of the impact, the deﬁnition of a set of
+visible improvements, and also induce money savings as
+an incentive. Extra beneﬁts of such a policy are not by-
+products but essential goals:
+1. more adequate training of students to energy and
+environmental issues; and
+2. extending
+R&D
+activities
+(waste
+management,
+LCA, etc.).
+Or in other words two fundamental elements of a cleaner
+scientiﬁc process.
+Acknowledgements
+This work would not have been made possible without
+the voluntary policy engaged by Michel Combarnous,
+president of the University of Bordeaux 1 (1996–2001).
+The authors also wish to greatly acknowledge Frederic
+Marteau and Christophe Guilbaud (Electricite de France)
+and
+Christophe
+Jutand
+(Agence
+de
+l’Eau
+Adour
+Garonne). They also express their thanks to the adminis-
+trative and technical managers of the campus, especially
+Alain Barrot (University of Bordeaux 1) and Jean Sang-
+uirgo (campus facilities), and to many colleagues from
+the research laboratories, not forgetting Catherine Istvan,
+Florian Guerre and Sean Thomas for collecting part of
+the building data on the campus.
+"
+1-s2.0-S095965260100018X-main.pdf,12,"24
+J.-F. Bonnet et al. / Journal of Cleaner Production 10 (2002) 13–24
+References
+[1] Dintchev O. Electricity and energy savings at Technikons and Uni-
+versities.
+Technikon
+Northern
+Gauteng
+Load
+Management.
+Internal note, Technikon Northern Gauteng, South Africa, 1998.
+[2] Galan L, Benayas J. 1998 Eco campus: initiatives taken at the
+Universitad Autonoma de Madrid, Madrid, 1998. Unpublished
+paper.
+[3] Benke G. Energy efﬁciency on Austrian universities. In: Energy-
+efﬁcient universities: how to proceed in the future? Conference,
+Technical University of Graz (Austria), 28–29 September 1998.
+http://www.eva.ac.at/(en)/service/veranst/uni.htm.
+[4] Delport J, Calmeyer J. Africampus Workshop. Unpublished work-
+ing paper, Workshop held during DUEE’99 Conference, Cape
+Tecknikon, Cape Town, South Africa, 30 March 1999.
+[5] EMSU. Environmental Management for Sustainable Universities.
+In: EMSU’99 Conference, International Institute for Industrial
+Environmental Economics, Lund, Sweden, 30 May–1 June 1999.
+[6] Roturier J, editor. ECOCAMPUS: a “Practice-What-You-Preach”
+European collaboration — Final report of the ECOCAMPUS
+Workgroup, Thermie Programme of the European Commission,
+1999.
+[7] Faucher P. The Ecocampus Programme: sustainable development
+in management of universities et research centres, case-study of
+the University of Bordeaux 1. PhD Thesis, University of Bordeaux
+1 (in French), 1999.
+[8] Devel C. Analysis of supply and demand of electricity on a univer-
+sity campus: case-study of Talence–Pessac–Gradignan. Tech-
+nology Research Diploma Thesis, University of Bordeaux 1, 13
+October 1999 (in French).
+[9] Faucher P, Bonnet J-F, Devel C, Roturier J. Electricity demand
+in a university campus in the framework of the ECOCAMPUS
+collaboration: case-study from the University of Bordeaux 1. In:
+ECEEE99 Conference, Cannes Mandelieu, France, 31 May–4
+June 1999.
+"
